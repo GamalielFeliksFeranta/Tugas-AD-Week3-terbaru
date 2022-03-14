@@ -44,7 +44,7 @@ namespace Tugas_AD_Week4_terbaru
                 Tb2Nama.Text = dataOrang[jumlahdata, 0];
                 Tb2Alamat.Text = dataOrang[jumlahdata, 1];
                 Tb2Telp.Text = dataOrang[jumlahdata, 2];
-            }
+            } 
         }
 
         private void BtnNextData_Click(object sender, EventArgs e)
